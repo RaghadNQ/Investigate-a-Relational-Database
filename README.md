@@ -4,5 +4,9 @@ PostgreSQL was used in this project to assist with the evaluation of rental data
 
 # Software used
 
-Udacity Workspace 
+Udacity Workspace
+
 Microsoft Excel
+
+Microsoft PowerPoint
+
